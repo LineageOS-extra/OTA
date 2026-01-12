@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1767240780,
-      "filename": "lineage-23.1-20260101-RELEASE-denver.zip",
-      "id": "9d9963a4ee52d54b7391433ac8905d75cb2c6a1b6030ce385ff3a10c2e995f29",
+      "datetime": 1768192292,
+      "filename": "lineage-23.1-20260112-RELEASE-denver.zip",
+      "id": "983e0866adfc11aace58325a2ab563da9bf6730cb2a2888dede37d4ebcf0fb19",
       "romtype": "RELEASE",
-      "size": 1155617737,
-      "url": "https://github.com/Hackneyed-releases/denver/releases/download/01012026/lineage-23.1-20260101-RELEASE-denver.zip",
+      "size": 1138303151,
+      "url": "https://github.com/Hackneyed-releases/denver/releases/download/12012026/lineage-23.1-20260112-RELEASE-denver.zip",
       "version": "23.1"
     }
   ]
