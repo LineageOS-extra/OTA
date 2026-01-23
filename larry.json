@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1768659248,
-      "filename": "lineage-23.1-20260117-RELEASE-larry.zip",
-      "id": "c45774d1c06e44cc7d3148ca54572282c1345354c8f58b9d73ccdf6ffac8af45",
+      "datetime": 1769086084,
+      "filename": "lineage-23.2-20260122-RELEASE-larry.zip",
+      "id": "2d69808bd5842ef0a97430038745d8cedd2e090997e4da9c7c26b0d4405c261c",
       "romtype": "RELEASE",
-      "size": 1661660562,
-      "url": "https://github.com/Hackneyed-releases/larry/releases/download/17012026/lineage-23.1-20260117-RELEASE-larry.zip",
-      "version": "23.1"
+      "size": 1679475329,
+      "url": "https://github.com/Hackneyed-releases/larry/releases/download/22012026/lineage-23.2-20260122-RELEASE-larry.zip",
+      "version": "23.2"
     }
   ]
 }
