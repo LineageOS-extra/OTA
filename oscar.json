@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1770513268,
-      "filename": "lineage-23.2-20260208-RELEASE-oscar.zip",
-      "id": "04256908d5ab0d5770bcb07b92775a499d84d1a3e2e5f9ff2eb75086e6fe999f",
+      "datetime": 1770782759,
+      "filename": "lineage-23.2-20260211-RELEASE-oscar.zip",
+      "id": "7422cbebeb3121d4ab3140fc982050dcf366591636ddb2637d461182ddbe6f73",
       "romtype": "RELEASE",
-      "size": 1747219202,
-      "url": "https://github.com/Hackneyed-releases/oscar/releases/download/08022026/lineage-23.2-20260208-RELEASE-oscar.zip",
+      "size": 1747237206,
+      "url": "https://github.com/Hackneyed-releases/oscar/releases/download/11022026/lineage-23.2-20260211-RELEASE-oscar.zip",
       "version": "23.2"
     }
   ]
