@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1772345123,
+      "filename": "lineage-23.2-2026030106-RELEASE-benz.zip",
+      "id": "bd1a364921a7b0c54052cc1df420013977c1e76065dd20eaf61c9dbee486ed42",
+      "romtype": "RELEASE",
+      "size": 3232877829,
+      "url": "https://dl.hackneyed.work.gd/benz/lineage/23/01032026/lineage-23.2-2026030106-RELEASE-benz.zip",
+      "version": "23.2"
+    }
+  ]
+}
