@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1772162683,
-      "filename": "lineage-23.2-2026022703-RELEASE-fogos.zip",
-      "id": "57375dcd5d329e0728da01110eb888acbad01d5d0ee85c71c0760e72d6548a87",
+      "datetime": 1772368636,
+      "filename": "lineage-23.2-2026030112-RELEASE-fogos.zip",
+      "id": "48350522a7e1bfc3db7bc2d6f7c17d905348a85802509ef8cee3af01bddc01ec",
       "romtype": "RELEASE",
-      "size": 2180463649,
-      "url": "https://dl.hackneyed.work.gd/fogos/lineage/23/27022026/lineage-23.2-2026022703-RELEASE-fogos.zip",
+      "size": 2180460699,
+      "url": "https://dl.hackneyed.work.gd/fogos/lineage/23/01032026/lineage-23.2-2026030112-RELEASE-fogos.zip",
       "version": "23.2"
     }
   ]
