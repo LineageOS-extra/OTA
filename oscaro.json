@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1773660528,
-      "filename": "lineage-23.2-20260316-RELEASE-oscaro.zip",
-      "id": "365c046303117f1ddcd45f57521521cf2a44dfb9097e71e574ad8587ca860996",
+      "datetime": 1775702308,
+      "filename": "lineage-23.2-20260409-RELEASE-oscaro.zip",
+      "id": "cd8b5d8a6ceb13ebf56f2e6056eb5476e08b5231d860fc51dc164f8fc957ccb2",
       "romtype": "RELEASE",
-      "size": 1721482039,
-      "url": "https://github.com/Hackneyed-releases/oscaro/releases/download/16032026/lineage-23.2-20260316-RELEASE-oscaro.zip",
+      "size": 1722778237,
+      "url": "https://github.com/Hackneyed-releases/oscaro/releases/download/09042026/lineage-23.2-20260409-RELEASE-oscaro.zip",
       "version": "23.2"
     }
   ]
